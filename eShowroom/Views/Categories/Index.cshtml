@@ -1,0 +1,59 @@
+﻿@model IEnumerable<eShowroom.Models.Category>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/views/shared/_LayoutForAdmin.cshtml";
+}
+
+<!-- Main layout -->
+<div class="container">
+    <!-- Section: Intro -->
+    <section class="mb-5">
+
+        <div class="card">
+            <div class="card-body">
+                <h1>Index</h1>
+
+                <p>
+                    <a asp-action="Create">Create New</a>
+                </p>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.CategoryName)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.EnteredDate)
+                                </th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.CategoryName)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.EnteredDate)
+                                    </td>
+                                    <td>
+                                        <a class="blue-text" data-toggle="tooltip" data-placement="top" title="See details" asp-action="Details" asp-route-id="@item.Id"><i class="fas fa-user"></i></a>
+                                        <a class="teal-text" data-toggle="tooltip" data-placement="top" title="Edit" asp-action="Edit" asp-route-id="@item.Id"><i class="fas fa-pencil-alt"></i></a>
+                                        <a class="red-text" data-toggle="tooltip" data-placement="top" title="Remove" asp-action="Delete" asp-route-id="@item.Id"><i class="fas fa-times"></i></a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+
+            </div>
+        </div>
+    </section>
+</div>
+<!-- Main layout -->
+

@@ -1,0 +1,76 @@
+﻿@model eShowroom.Models.Product
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/views/shared/_LayoutForAdmin.cshtml";
+}
+
+<!-- Main layout -->
+<div class="container">
+    <!-- Section: Intro -->
+    <section class="mb-5">
+        <h1>Details</h1>
+
+        <div>
+            <h4>Product</h4>
+            <hr />
+            <dl class="row">
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.ProductName)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.ProductName)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.ProductShortDesc)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.ProductShortDesc)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.ProductLongDesc)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.ProductLongDesc)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.ProductStock)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.ProductStock)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.ProductImage)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.ProductImage)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.ProductUrlImage)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.ProductUrlImage)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.EnteredDate)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.EnteredDate)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.Category)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.Category.CategoryName)
+                </dd>
+            </dl>
+        </div>
+        <div>
+            <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+            <a asp-action="Index">Back to List</a>
+        </div>
+
+    </section>
+</div>
+
+

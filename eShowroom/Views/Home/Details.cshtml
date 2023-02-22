@@ -1,0 +1,142 @@
+﻿@model eShowroom.Models.Product
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<!-- Main layout -->
+<div class="container">
+    <!-- Section: Intro -->
+    <section class="mb-5">
+        <h1>Details</h1>
+
+        <div class="row">
+            <h4>Détails des produits</h4>
+            <hr />
+            <div class="col-sm-6">
+                <div class="card mb-3" style="max-width: 540px;">
+                  <div class="row g-0">
+                    <div class="col-md-4">
+                            <img src="Images/Products/@Html.DisplayFor(model => model.ProductImage)" class="img-fluid rounded-start" width="100%" alt="@Html.DisplayFor(model => model.ProductName)" />
+                        </div>
+                    <div class="col-md-4">
+                      <div class="card-body">
+                            <h5 class="card-title">@Html.DisplayFor(model => model.ProductName)</h5>
+                            <p class="card-text"><b>Catégorie: </b>@Html.DisplayFor(model => model.Category.CategoryName)</p>
+                            <p class="card-text"><b>Prix: </b>à mettre</p>
+                            <p class="card-text">@Html.DisplayFor(model => model.ProductShortDesc)</p>
+                            <p class="card-text"><small class="text-muted">@Html.DisplayFor(model => model.ProductLongDesc)</small></p>
+                            <textarea>
+                                Commentaires
+                            </textarea>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+
+            <div class="col-sm-6">
+
+                <div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">Special title treatment</h5>
+    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+<div class="card text-center" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">Special title treatment</h5>
+    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+<div class="card text-end" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">Special title treatment</h5>
+    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+            </div>
+
+        </div>
+        @*
+
+        
+        <div>
+            <h4>Product</h4>
+            <hr />
+            <dl class="row">
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.ProductName)
+                </dt>
+                <dd class = "col-sm-10">
+                    
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.ProductShortDesc)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.ProductShortDesc)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.ProductLongDesc)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.ProductLongDesc)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.ProductStock)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.ProductStock)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.ProductImage)
+                </dt>
+                <dd class = "col-sm-10">
+                    
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.ProductUrlImage)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.ProductUrlImage)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.EnteredDate)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.EnteredDate)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.Category)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.Category.CategoryName)
+                </dd>
+            </dl>
+        </div>
+
+        <div class="col-md-12">
+            <div class="card-footer ">
+                <p class="card-text">
+                    <a class="btn btn-outline-primary float-end" asp-action="Index">
+                        Back to List
+                    </a>
+                    <a class="btn btn-success text-white" asp-controller="#" asp-action="#" asp-route-id="@Model.Id">
+                        <i class="bi bi-cart-plus"></i> Add to Cart @*(Price @Model.Price.ToString("c"))
+                    </a>
+                </p>
+            </div>
+        </div>
+
+*@
+    </section>
+</div>
+
+

@@ -1,0 +1,80 @@
+﻿@model eShowroom.Models.Fournisseur
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/views/shared/_LayoutForAdmin.cshtml";
+}
+
+<!-- Main layout -->
+<div class="container">
+    <!-- Section: Intro -->
+    <section class="mb-5">
+        <h1>Edit</h1>
+
+        <h4>Fournisseur</h4>
+        <hr />
+        <div class="row">
+            <div class="col-md-4">
+                <form asp-action="Edit">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="Id" />
+                    <div class="form-group">
+                        <label asp-for="FournisseurName" class="control-label"></label>
+                        <input asp-for="FournisseurName" class="form-control" />
+                        <span asp-validation-for="FournisseurName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="SiegeSocial" class="control-label"></label>
+                        <input asp-for="SiegeSocial" class="form-control" />
+                        <span asp-validation-for="SiegeSocial" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Logo" class="control-label"></label>
+                        <input asp-for="Logo" class="form-control" />
+                        <span asp-validation-for="Logo" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="UrlLogo" class="control-label"></label>
+                        <input asp-for="UrlLogo" class="form-control" />
+                        <span asp-validation-for="UrlLogo" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="FournisseurAdresse" class="control-label"></label>
+                        <input asp-for="FournisseurAdresse" class="form-control" />
+                        <span asp-validation-for="FournisseurAdresse" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="FournisseurEmail" class="control-label"></label>
+                        <input asp-for="FournisseurEmail" class="form-control" />
+                        <span asp-validation-for="FournisseurEmail" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="FournisseurTel" class="control-label"></label>
+                        <input asp-for="FournisseurTel" class="form-control" />
+                        <span asp-validation-for="FournisseurTel" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="FournissuerSlogan" class="control-label"></label>
+                        <input asp-for="FournissuerSlogan" class="form-control" />
+                        <span asp-validation-for="FournissuerSlogan" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="EnteredDate" class="control-label"></label>
+                        <input asp-for="EnteredDate" class="form-control" />
+                        <span asp-validation-for="EnteredDate" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Save" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div>
+            <a asp-action="Index">Back to List</a>
+        </div>
+    </section>
+</div>
+
+
+

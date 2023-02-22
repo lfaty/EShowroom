@@ -1,0 +1,94 @@
+﻿@model IEnumerable<eShowroom.Models.Fournisseur>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/views/shared/_LayoutForAdmin.cshtml";
+}
+<!-- Main layout -->
+<div class="container">
+    <!-- Section: Intro -->
+    <section class="mb-5">
+        <h1>Index</h1>
+
+        <p>
+            <a asp-action="Create">Create New</a>
+        </p>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FournisseurName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.SiegeSocial)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Logo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.UrlLogo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FournisseurAdresse)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FournisseurEmail)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FournisseurTel)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.FournissuerSlogan)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.EnteredDate)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.FournisseurName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.SiegeSocial)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Logo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.UrlLogo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.FournisseurAdresse)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.FournisseurEmail)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.FournisseurTel)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.FournissuerSlogan)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EnteredDate)
+                        </td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                            <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                            <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </section>
+ </div>
+
+
+

@@ -1,0 +1,445 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\eShowroom.bundle.scp.css",
+      "PackagePath": "staticwebassets\\eShowroom.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\Images\\Logo\\Logo-ssb.jpg",
+      "PackagePath": "staticwebassets\\Images\\Logo\\Logo-ssb.jpg"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\Images\\Products\\ARMOIRE1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ARMOIRE1.jpg"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\Images\\Products\\ARMOIRE2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ARMOIRE2.jpg"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\Images\\Products\\ARMOIRE3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ARMOIRE3.jpg"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\Images\\Products\\BUREAU3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\BUREAU3.jpg"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\Images\\Products\\IMP2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\IMP2.jpg"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\Images\\Products\\IMPRI6.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\IMPRI6.jpg"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\Images\\Products\\Lenovo.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Lenovo.jpg"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\Images\\Products\\Logo-ssb.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Logo-ssb.jpg"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\Images\\Products\\Logo.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\Logo.png"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\Images\\Products\\Macinthost-Portable.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Macinthost-Portable.jpg"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\Images\\Products\\PHOTOCOPIE1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\PHOTOCOPIE1.jpg"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\Images\\Products\\PHOTOCOPIE5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\PHOTOCOPIE5.jpg"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\Images\\Products\\imprimante1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\imprimante1.jpg"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\css\\addons\\datatables-select.css",
+      "PackagePath": "staticwebassets\\css\\addons\\datatables-select.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\css\\addons\\datatables-select.min.css",
+      "PackagePath": "staticwebassets\\css\\addons\\datatables-select.min.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\css\\addons\\datatables.css",
+      "PackagePath": "staticwebassets\\css\\addons\\datatables.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\css\\addons\\datatables.min.css",
+      "PackagePath": "staticwebassets\\css\\addons\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\css\\addons\\directives.css",
+      "PackagePath": "staticwebassets\\css\\addons\\directives.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\css\\addons\\directives.min.css",
+      "PackagePath": "staticwebassets\\css\\addons\\directives.min.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\css\\addons\\flag.css",
+      "PackagePath": "staticwebassets\\css\\addons\\flag.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\css\\addons\\flag.min.css",
+      "PackagePath": "staticwebassets\\css\\addons\\flag.min.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\css\\addons\\rating.css",
+      "PackagePath": "staticwebassets\\css\\addons\\rating.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\css\\addons\\rating.min.css",
+      "PackagePath": "staticwebassets\\css\\addons\\rating.min.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\css\\addons\\zmd.hierarchical-display.css",
+      "PackagePath": "staticwebassets\\css\\addons\\zmd.hierarchical-display.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\css\\addons\\zmd.hierarchical-display.min.css",
+      "PackagePath": "staticwebassets\\css\\addons\\zmd.hierarchical-display.min.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\css\\mdb.min.css",
+      "PackagePath": "staticwebassets\\css\\mdb.min.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\addons\\datatables-select.js",
+      "PackagePath": "staticwebassets\\js\\addons\\datatables-select.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\addons\\datatables-select.min.js",
+      "PackagePath": "staticwebassets\\js\\addons\\datatables-select.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\addons\\datatables.js",
+      "PackagePath": "staticwebassets\\js\\addons\\datatables.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\addons\\datatables.min.js",
+      "PackagePath": "staticwebassets\\js\\addons\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\addons\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\addons\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\addons\\jquery.zmd.hierarchical-display.js",
+      "PackagePath": "staticwebassets\\js\\addons\\jquery.zmd.hierarchical-display.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\addons\\jquery.zmd.hierarchical-display.min.js",
+      "PackagePath": "staticwebassets\\js\\addons\\jquery.zmd.hierarchical-display.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\addons\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\addons\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\addons\\progressBar.js",
+      "PackagePath": "staticwebassets\\js\\addons\\progressBar.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\addons\\progressBar.min.js",
+      "PackagePath": "staticwebassets\\js\\addons\\progressBar.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\addons\\rating.js",
+      "PackagePath": "staticwebassets\\js\\addons\\rating.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\addons\\rating.min.js",
+      "PackagePath": "staticwebassets\\js\\addons\\rating.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\mdb.min.js",
+      "PackagePath": "staticwebassets\\js\\mdb.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Outils\\DevAppsWeb\\eShowroom\\eShowroom\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.eShowroom.props",
+      "PackagePath": "build\\eShowroom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.eShowroom.props",
+      "PackagePath": "buildMultiTargeting\\eShowroom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.eShowroom.props",
+      "PackagePath": "buildTransitive\\eShowroom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.eShowroom.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,82 @@
+﻿@model eShowroom.Models.Fournisseur
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/views/shared/_LayoutForAdmin.cshtml";
+}
+
+<!-- Main layout -->
+<div class="container">
+    <!-- Section: Intro -->
+    <section class="mb-5">
+        <h1>Details</h1>
+
+        <div>
+            <h4>Fournisseur</h4>
+            <hr />
+            <dl class="row">
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.FournisseurName)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.FournisseurName)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.SiegeSocial)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.SiegeSocial)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.Logo)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.Logo)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.UrlLogo)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.UrlLogo)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.FournisseurAdresse)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.FournisseurAdresse)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.FournisseurEmail)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.FournisseurEmail)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.FournisseurTel)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.FournisseurTel)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.FournissuerSlogan)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.FournissuerSlogan)
+                </dd>
+                <dt class = "col-sm-2">
+                    @Html.DisplayNameFor(model => model.EnteredDate)
+                </dt>
+                <dd class = "col-sm-10">
+                    @Html.DisplayFor(model => model.EnteredDate)
+                </dd>
+            </dl>
+        </div>
+        <div>
+            <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+            <a asp-action="Index">Back to List</a>
+        </div>
+
+    </section>
+</div>
+
+
